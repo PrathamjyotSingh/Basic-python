@@ -1,0 +1,18 @@
+del S1[0]
+del S1[2]
+print(S1)
+print(40 in S1)
+S3=S1+S2
+print(S3)
+# WAP to find the intersection between S1 and S2
+intersection = []
+for i in S1:
+    if i in S2:
+        intersection.append(i)
+print(intersection)
+print(S1)
+difference = []
+for i in S1:
+    if i not in S2:
+        difference.append(i)
+print(difference)
