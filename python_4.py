@@ -1,0 +1,6 @@
+a=input("enter name :")
+b=input("enter age :")
+c=input("enter gender :")
+print(a)
+print(b)
+print(c)
