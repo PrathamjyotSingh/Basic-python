@@ -1,2 +1,2 @@
-# summerschool
- Thapar summer school 2023
+# PYTHON
+ Practicing python
