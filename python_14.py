@@ -1,0 +1,10 @@
+import math as m
+print(m.sqrt(16))
+print(m.log(100,10))
+print(m.log10(100))
+print(m.cos(180))
+print(m.sin(30))
+print(m.tan(45))
+print(m.ceil(5.0))
+print(m.floor(5.0))
+print(m.exp(0))
